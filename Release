@@ -1,8 +1,8 @@
-Origin: AutoBot
-Label: AutoBot
+Origin: AutoBot Repo
+Label: AutoBot Repo
 Suite: stable
 Version: 1.0
-Codename: ios 
+Codename: AutoBot Repo
 Architectures: iphoneos-arm
 Components: main
 Description: AutoBot
