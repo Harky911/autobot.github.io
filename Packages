@@ -1,0 +1,13 @@
+Package: AutoClashBotiOS
+Version: 6.4.1
+Section: Games
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS_6.4.1_iphoneos-arm.deb
+Size: 187616
+MD5sum: 2f490f3474154cd77090e0e978b0cfc1
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+

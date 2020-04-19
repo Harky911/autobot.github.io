@@ -1,20 +1,9 @@
-Origin: AutoTouch Beta
-Label: AutoTouch Beta
-Suite: beta
+Origin: AutoBot
+Label: AutoBot
+Suite: main
 Version: 1.0
-Codename: AutoTouch
+Codename: AutoBot
 Architectures: iphoneos-arm
 Components: main
-Description: Beta repository of AutoTouch
-Support: https://autotouch.net
-MD5Sum:
-    File: "Packages"
-    ID: 100000500000016 Namelen: ?       Type: apfs
-Block size: 4096       Fundamental block size: 4096
-Blocks: Total: 15607069   Free: 2280251    Available: 609517
-Inodes: Total: 624282760  Free: 623896187 Packages
-    File: "Packages.bz2"
-    ID: 100000500000016 Namelen: ?       Type: apfs
-Block size: 4096       Fundamental block size: 4096
-Blocks: Total: 15607069   Free: 2280251    Available: 609517
-Inodes: Total: 624282760  Free: 623896187 Packages.bz2
+Description: AutoBot repository
+Support: https://autoclashbotios.com
