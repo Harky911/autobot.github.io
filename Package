@@ -1,9 +1,9 @@
-Package: com.yourepo.autoclashbotios.autoclashbotios
-Name: AutoClashBotiOS
+Package: AutoClashBotiOS
 Version: 6.4.1
 Architecture: iphoneos-arm
+Maintainer: AutoClashBotiOS <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Filename: debs//AutoClashBotiOS_6.4.1_iphoneos-arm
+Section: <section on your repo>
 Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
 Author: AutoClashBotiOS <autoclashbotios@hotmail.com>
-Section: Games
-Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
-Maintainer: AutoClashBotiOS <autoclashbotios@hotmail.com>
