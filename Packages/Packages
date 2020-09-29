@@ -1,0 +1,508 @@
+Package: AutoBlob
+Version: 2.1.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: tsschecker, openssl, pzb, curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoBlob/AutoBlob_2.1.0_iphoneos-arm.deb
+Size: 9090
+MD5sum: 7160eed5c5477e91c861dc81657b7996
+Description: Save SHSH blobs with AutoTouch
+Name: AutoBlob
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25836
+
+Package: AutoClashBotiOS
+Version: 6.6.2
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.2_iphoneos-arm.deb
+Size: 191932
+MD5sum: efdc74eb72ec31289451f51e9bce1a1d
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.4.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.4.1_iphoneos-arm.deb
+Size: 187656
+MD5sum: 31f943b449316f008c1333339ca7f21f
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.6
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.6_iphoneos-arm.deb
+Size: 192032
+MD5sum: be2c3f0498462bffe34ce4817cff4e53
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 7.0.2
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 7.0.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_7.0.2_iphoneos-arm.deb
+Size: 156728
+MD5sum: a4837c339b8988be0a4296558b045da8
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.3
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.3_iphoneos-arm.deb
+Size: 191922
+MD5sum: 3b060e70c49bad1f7fcee387ba053ce9
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.4.4
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.4.4_iphoneos-arm.deb
+Size: 188568
+MD5sum: b0cac7a113fa5170a62fd9a76096b3cb
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.0_iphoneos-arm.deb
+Size: 191610
+MD5sum: 3e528e8b804c295a4c09fe6a9663b4b5
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.4.3
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.4.3_iphoneos-arm.deb
+Size: 188208
+MD5sum: 9a629b12f903a1803b73ab411fce6a11
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 7.0.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 7.0.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_7.0.0_iphoneos-arm.deb
+Size: 156414
+MD5sum: 012fb8a516f6f95815ce0766181b1771
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.4
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.4_iphoneos-arm.deb
+Size: 192056
+MD5sum: b5a95c2f0d483cc0d96ee85002fcf2a7
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.5.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.5.0_iphoneos-arm.deb
+Size: 190182
+MD5sum: 0f73c275d548d021050e67bb78198915
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.1_iphoneos-arm.deb
+Size: 191902
+MD5sum: ee4762ec80fe760eb1511be19df61080
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.4.2
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.4.2_iphoneos-arm.deb
+Size: 188124
+MD5sum: 3010a25e25d9f1ab4fb4df2a41a54e14
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 7.0.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 7.0.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_7.0.1_iphoneos-arm.deb
+Size: 156622
+MD5sum: c4d2c857c69acbb3bebb51783f2df42c
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.6.5
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.6.5_iphoneos-arm.deb
+Size: 192050
+MD5sum: 163b121dafb30aa568155f3631a7946a
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.5.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.5.1_iphoneos-arm.deb
+Size: 190170
+MD5sum: 519d587e49ac3d0f2669481f65db275a
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: AutoClashBotiOS
+Version: 6.7.2
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/AutoClashBotiOS/AutoClashBotiOS_6.7.2_iphoneos-arm.deb
+Size: 192032
+MD5sum: d6e4bbee4ce86916d2259f4b8dede2ae
+Description: Train troops, search for 'dead' bases to attack and deploy your army including any Clan Castle Troops and heroes. Website: https://autoclashbotios.com
+Name: AutoClashBotiOS
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25795
+
+Package: BrawlStarsBot
+Version: 1.4.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/BrawlStarsBot/BrawlStarsBot_1.4.0_iphoneos-arm.deb
+Size: 40418
+MD5sum: b2909613a3b35200fe04f0af228e31df
+Description: A bot for Brawl Stars
+Name: BrawlStarsBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25831
+
+Package: BrawlStarsBot
+Version: 1.3.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/BrawlStarsBot/BrawlStarsBot_1.3.0_iphoneos-arm.deb
+Size: 31042
+MD5sum: dc534c22f887ced90647589c4f09b20b
+Description: A bot for Brawl Stars
+Name: BrawlStarsBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25831
+
+Package: ClashRoyaleBot
+Version: 4.5.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ClashRoyaleBot/ClashRoyaleBot_4.5.1_iphoneos-arm.deb
+Size: 20493170
+MD5sum: c02d3626f0df6c89d17df66b7d617da7
+Description: Clash Royale Bot design is really clean and easy use, with just a few taps you can start to unlock chests, collect cards, donate, request, open chests, battle and much more! Battling can be 2v2 or 1v1.
+Name: ClashRoyaleBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25832
+
+Package: ClashRoyaleBot
+Version: 4.5.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ClashRoyaleBot/ClashRoyaleBot_4.5.0_iphoneos-arm.deb
+Size: 20492958
+MD5sum: 592a5041f61568ea338d2df2ed720ecb
+Description: Clash Royale Bot design is really clean and easy use, with just a few taps you can start to unlock chests, collect cards, donate, request, open chests, battle and much more! Battling can be 2v2 or 1v1.
+Name: ClashRoyaleBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25832
+
+Package: ClashRoyaleBot
+Version: 4.3.9
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ClashRoyaleBot/ClashRoyaleBot_4.3.9_iphoneos-arm.deb
+Size: 20491842
+MD5sum: 9c55ea3f3ac734aa37f0aa0b5e74fa6d
+Description: Clash Royale Bot design is really clean and easy use, with just a few taps you can start to unlock chests, collect cards, donate, request, open chests, battle and much more! Battling can be 2v2 or 1v1.
+Name: ClashRoyaleBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25832
+
+Package: ClashRoyaleBot
+Version: 4.4.0
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ClashRoyaleBot/ClashRoyaleBot_4.4.0_iphoneos-arm.deb
+Size: 20491988
+MD5sum: 13d36f5edf4daa0103dc0639300a2c07
+Description: Clash Royale Bot design is really clean and easy use, with just a few taps you can start to unlock chests, collect cards, donate, request, open chests, battle and much more! Battling can be 2v2 or 1v1.
+Name: ClashRoyaleBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25832
+
+Package: ClashRoyaleBot
+Version: 4.3.8
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ClashRoyaleBot/ClashRoyaleBot_4.3.8_iphoneos-arm.deb
+Size: 20491550
+MD5sum: eb9b3609f3b55fc8af1ba1ef3fd43f23
+Description: Clash Royale Bot design is really clean and easy use, with just a few taps you can start to unlock chests, collect cards, donate, request, open chests, battle and much more! Battling can be 2v2 or 1v1.
+Name: ClashRoyaleBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25832
+
+Package: CoCXP
+Version: 1.2.8
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/CoCXP/CoCXP_1.2.8_iphoneos-arm.deb
+Size: 24706
+MD5sum: 82082548542f32ef33924edd4b94a5dd
+Description: A Bot for coc
+Name: CoCXP
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25859
+
+Package: HueAddict
+Version: 1.3
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: ./debs/HueAddict/HueAddict_1.3_iphoneos-arm.deb
+Size: 8530
+MD5sum: 85a38ca849c771ffb97a3e23803faca6
+Description: Philips Hue Lights with Autotouch.
+Name: HueAddict
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25819
+
+Package: IronForceBot
+Version: 1.0.1
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/IronForceBot/IronForceBot_1.0.1_iphoneos-arm.deb
+Size: 18998
+MD5sum: 5bb29d039cbfd0e205b6d7450fcb1b3a
+Description: Iron Force Bot
+Name: IronForceBot
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25932
+
+Package: RemoteBox
+Version: 1.4.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, mobilesubstrate, me.autotouch.autotouch.ios8 (>= 5.1.2-7)
+Architecture: iphoneos-arm
+Filename: ./debs/RemoteBox/RemoteBox_1.4.0_iphoneos-arm.deb
+Size: 361048
+MD5sum: ff447c2a9bf67fb6ed9ac1868ded8d0b
+Description: RemoteBox can start any AutoTouch script .lua, .at, .ate files from a remote jailbroken or non-jailbroken device. All your script names will be shown in DropBox. You can also issue terminal commands with root accsess, results from commands will be uploaded back to DropBox. Passcode on lock screen has to be disabled to be able to run AutoTouch scripts/bots. For terminal commands there is no need to disable passcode. The ReadMe can be found in the AutoTouch app RemoteBox/ReadMe.txt
+Name: RemoteBox
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25949
+Icon: file:///var/mobile/Library/RemoteBox/icon.PNG
+
+Package: RemoteBox
+Version: 1.5.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, mobilesubstrate, me.autotouch.autotouch.ios8 (>= 5.1.2-7)
+Architecture: iphoneos-arm
+Filename: ./debs/RemoteBox/RemoteBox_1.5.0_iphoneos-arm.deb
+Size: 361084
+MD5sum: 6987ae65fbe5a037f1867fd41bc034d1
+Description: RemoteBox can start any AutoTouch script .lua, .at, .ate, .js files from a remote jailbroken or non-jailbroken device. All your script names will be shown in DropBox. You can also issue terminal commands with root accsess, results from commands will be uploaded back to DropBox. Passcode on lock screen has to be disabled to be able to run AutoTouch scripts/bots. For terminal commands there is no need to disable passcode. The ReadMe can be found in the AutoTouch app RemoteBox/ReadMe.txt
+Name: RemoteBox
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25949
+Icon: file:///var/mobile/Library/RemoteBox/icon.PNG
+
+Package: RemoteBox
+Version: 1.5.1
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, mobilesubstrate, me.autotouch.autotouch.ios8 (>= 5.1.2-7)
+Architecture: iphoneos-arm
+Filename: ./debs/RemoteBox/RemoteBox_1.5.1_iphoneos-arm.deb
+Size: 361072
+MD5sum: 2d151b0473641490ea1dbe198ef1e435
+Description: RemoteBox can start any AutoTouch script .lua, .at, .ate, .js files from a remote jailbroken or non-jailbroken device. All your script names will be shown in DropBox. You can also issue terminal commands with root accsess, results from commands will be uploaded back to DropBox. Passcode on lock screen has to be disabled to be able to run AutoTouch scripts/bots. For terminal commands there is no need to disable passcode. The ReadMe can be found in the AutoTouch app RemoteBox/ReadMe.txt
+Name: RemoteBox
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25949
+Icon: file:///var/mobile/Library/RemoteBox/icon.PNG
+
+Package: RemoteBox
+Version: 1.3.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: curl, mobilesubstrate, me.autotouch.autotouch.ios8 (>= 5.1.2-7)
+Architecture: iphoneos-arm
+Filename: ./debs/RemoteBox/RemoteBox_1.3.0_iphoneos-arm.deb
+Size: 360620
+MD5sum: e93060da9de313547a8f0d17b8ba9644
+Description: RemoteBox can start any AutoTouch script .lua, .at, .ate files from a remote jailbroken or non-jailbroken device. All your script names will be shown in DropBox. You can also issue terminal commands with root accsess, results from commands will be uploaded back to DropBox. Passcode on lock screen has to be disabled to be able to run AutoTouch scripts/bots. For terminal commands there is no need to disable passcode. The ReadMe can be found in the AutoTouch app RemoteBox/ReadMe.txt
+Name: RemoteBox
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25949
+Icon: file:///var/mobile/Library/RemoteBox/icon.PNG
+
+Package: ScriptConverter
+Version: 1.7.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ScriptConverter/ScriptConverter_1.7.0_iphoneos-arm.deb
+Size: 4074
+MD5sum: bf859a8126dd6518712632eb345077f4
+Description: Convert AutoTouch Scripts
+Name: ScriptConverter
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25862
+
+Package: ScriptConverter
+Version: 2.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ScriptConverter/ScriptConverter_2.0_iphoneos-arm.deb
+Size: 4816
+MD5sum: bcbb2bc608935d3fc3a703709a912658
+Description: Convert AutoTouch Scripts
+Name: ScriptConverter
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25862
+
+Package: ScriptConverter
+Version: 1.8.0
+Section: Tweaks
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8 (>= 5.1.2-7), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/ScriptConverter/ScriptConverter_1.8.0_iphoneos-arm.deb
+Size: 4234
+MD5sum: 554c66016972da66893056ed8c59aef4
+Description: Convert AutoTouch Scripts
+Name: ScriptConverter
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25862
+
+Package: SpamChat
+Version: 1.3
+Section: Games (Bots)
+Maintainer: AutoBot <autoclashbotios@hotmail.com>
+Depends: me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: ./debs/SpamChat/SpamChat_1.3_iphoneos-arm.deb
+Size: 8612
+MD5sum: 084e6e2c1c5f39c8d99640709af6bffc
+Description: SpamChat will continuously send snaps to your most recent. Important to send a snapchat to yourself or however you would like to spam.
+Name: SpamChat
+Author: AutoBot <autoclashbotios@hotmail.com>
+Depiction: https://store.autotouch.net/details.html?id=25865
+
