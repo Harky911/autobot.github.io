@@ -176,11 +176,7 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://usrlightmann.github.io/depictions/?p=$p";
-
-	$tv{'SileoDepiction'} = "https://usrlightmann.github.io/sileodepictions/$p.json";
-
-	$tv{'Icon'} = "https://usrlightmann.github.io/assets/icons/$p.png";
+	$tv{'Icon'} = "https://Harky911.github.io/Cydiaicon.png";
 	
 	my @checksums = (
 		{
