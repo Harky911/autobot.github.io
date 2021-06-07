@@ -1,0 +1,8 @@
+#!/bin/sh
+
+rm -f /var/mobile/Library/AutoTouch/Library/timers
+
+
+rm -f /var/mobile/Library/AutoTouch/Library/autolaunch
+
+exit 0
