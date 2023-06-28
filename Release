@@ -3,7 +3,7 @@ Label: AutoBot
 Suite: main
 Version: 1.0
 Codename: AutoBot
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: AutoBot Repo
 Support: https://autoclashbotios.com
